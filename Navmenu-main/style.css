@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+#nav-content
+{
+    background-color: #ff0000;
+}
+
+#ul-content
+{
+    list-style:none;
+    display:flex;
+    width:30%;
+}
+#li-content
+{
+    padding: 30px;
+}
+#li-content a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
